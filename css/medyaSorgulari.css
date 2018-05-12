@@ -1,0 +1,32 @@
+@media (max-width: 768px) {
+    .uyeOl{
+        margin-bottom: 5px
+    }
+
+}
+@media (min-width: 576px) {
+    .sonEklenenler section{
+        padding: 0 25px;
+    }
+    
+    .sonEklenenler section a{
+        margin-bottom: 10px;
+        padding: 0 5px;
+    }
+}
+
+@media (min-width: 768px) {
+    .uyeOl{
+        margin: 0 5px
+    }
+    .bolumBaslik h6{display: inline-block!important}
+
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}
