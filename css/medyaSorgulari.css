@@ -5,6 +5,12 @@
 
 }
 @media (min-width: 576px) {
+    .sonEklenenler .sagKisim a{
+        padding: 0 7px
+    }
+    .sonEklenenler .sagKisim{
+        padding: 0 23px
+    }    
 
 }
 
@@ -12,9 +18,11 @@
     .uyeOl{
         margin: 0 5px
     }
-    .sonEklenenler section a{
-        padding: 0 7px
+    .sonEklenenler .sagKisim a{
+        margin-bottom: 17px
     }
+    .bolumBaslik h6{display: inline-block!important}
+
 }
 
 @media (min-width: 992px) {
