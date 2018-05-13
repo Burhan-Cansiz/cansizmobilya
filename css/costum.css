@@ -37,6 +37,7 @@
 *************************/
 
 .bgGray{background-color: #f5f5f5}
+.cursorPointer{cursor: pointer}
 
 header,#slaytKontrol,aside>ul{background: url('../img/global/sliderBg.png')}
 body{
