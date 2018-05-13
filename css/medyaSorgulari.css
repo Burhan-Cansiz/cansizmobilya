@@ -12,8 +12,9 @@
     .uyeOl{
         margin: 0 5px
     }
-    .bolumBaslik h6{display: inline-block!important}
-
+    .sonEklenenler section a{
+        padding: 0 7px
+    }
 }
 
 @media (min-width: 992px) {
