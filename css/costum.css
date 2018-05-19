@@ -38,6 +38,7 @@
 
 .bgGray{background-color: #f5f5f5}
 .cursorPointer{cursor: pointer}
+.maxWid53{max-width: 53px}
 
 header,#slaytKontrol,aside>ul{background: url('../img/global/sliderBg.png')}
 body{
